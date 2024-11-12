@@ -1,7 +1,5 @@
 # Text-classifier-using-Embedding-Layer
-## AIM
-To create a classifier using specialized layers for text data such as Embedding and GlobalAveragePooling1D.
-# Text-classifier-using-Embedding-Layer
+
 ## AIM
 To create a classifier using specialized layers for text data such as Embedding and GlobalAveragePooling1D.
 
